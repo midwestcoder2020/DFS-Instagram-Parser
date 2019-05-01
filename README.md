@@ -14,3 +14,7 @@ No installation needed. Simply run exe to use.
 
 The program defaults to the messages feature in the left window. The list contains several functions for use. BUT, at this time, only the messaging functionallity is currently operational. The remaining functions will serve the same purpose but for their own specific category. 
 
+
+## Screen Shot
+
+![Image of Tool]('/screenshot/')
