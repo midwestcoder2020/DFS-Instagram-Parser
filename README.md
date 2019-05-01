@@ -17,4 +17,4 @@ The program defaults to the messages feature in the left window. The list contai
 
 ## Screen Shot
 
-![Image of Tool]('/screenshot/')
+![Image of Tool](screenshots/instaParserDist.png')
