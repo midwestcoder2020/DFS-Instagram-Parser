@@ -8,7 +8,7 @@ The program will parse the JSON data files provided by the user along with the o
 
 ## Installation
 
-No installation needed. Simply run exe to use.
+No installation needed. Simply run exe to use. NOTE* Built on Windwows 10 64 bit system.
 
 ## Usage
 
