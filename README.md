@@ -14,7 +14,9 @@ No installation needed. Simply run exe to use. NOTE* Built on Windwows 10 64 bit
 
 The program defaults to the messages feature in the left window. The list contains several functions for use. BUT, at this time, only the messaging functionallity is currently operational. The remaining functions will serve the same purpose but for their own specific category. 
 
+### Future work
 
+inmplementation of crytographic hashes MD5/SHA256
 
 
 ## Screen Shot
